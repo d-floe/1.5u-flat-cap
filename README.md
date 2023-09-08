@@ -1,7 +1,7 @@
 # 1.5u Flat Cherry MX Keycap
 A Flat Cherry MX compatible keycap based on the Signature Plastics F16 Keycaps.
 
-Blocker version is baed on the Signature Plastics Switch Blocker.
+Blocker version is based on the Signature Plastics Switch Blocker.
 
 1.5u size to act as a makeshift blocker for 60% to HHKB style conversion / training.
 
