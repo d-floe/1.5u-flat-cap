@@ -12,4 +12,4 @@ This model is based on: https://github.com/endeavoursc/cherry-mx-keycaps
 ![image](https://github.com/d-floe/1.5u-flat-cap/assets/31980883/ff120a23-f9d5-408f-9f96-7982deb46a6b)
 
 ## Demo Render
-![image](https://github.com/d-floe/1.5u-flat-cap/assets/31980883/d6a1c669-46a9-4cef-90e9-f19999ba1d88)
+![blockers (Medium)](https://github.com/d-floe/1.5u-flat-cap/assets/31980883/875a0b60-c483-4b5f-a0f7-38314197b9aa)
