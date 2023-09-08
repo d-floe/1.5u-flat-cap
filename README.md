@@ -1,5 +1,5 @@
 # 1.5u Flat Cherry MX Keycap
-A Flat Cherry MX compatible keycap based on the Signature Plastics F16 Keycaps.
+A Flat Cherry MX compatible keycap based on the Signature Plastics F10 Keycaps.
 
 Blocker version is based on the Signature Plastics Switch Blocker.
 
